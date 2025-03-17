@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I'm Willem Touw  
 
-<!--
-**wiltouw/wiltouw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student @ Rutgers University**  
+💻 **Web Developer | Cybersecurity Enthusiast**  
+🔹 Passionate about **building secure web applications & automating cybersecurity tasks**  
+🔹 Currently exploring **penetration testing, cloud security, and ethical hacking**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **What I Do**  
+🔹 **Web Development** – Building & optimizing responsive websites  
+🔹 **Cybersecurity** – Learning ethical hacking, threat detection, and security automation  
+🔹 **Cloud & Networking** – Exploring AWS, Linux, and security best practices  
+
+---
+
+### 🛠️ **Tech Stack & Skills**  
+💻 `Python` `JavaScript` `HTML/CSS` `Linux` `Bash` `Kali Linux`  
+🛡️ `Networking` `Cybersecurity` `Cloud Security` `Penetration Testing`  
+🌐 `Web Dev` `Figma` `SEO` `Git/GitHub`  
+
+---
+
+### 📂 **Latest Projects**  
+🔹 **[Port Scanner](https://github.com/wiltouw/PortScanner)** – A Python tool to scan open ports on a target system  
+🔹 **[Website Portfolio](https://willemtouw.com)** – My personal website showcasing web development work  
+
+---
+
+### 🌍 **Find Me Online**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/willemtouw/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/wiltouw)  
+
+---
+
+⚡ **Currently working on:** Enhancing cybersecurity skills & building cool projects!  
