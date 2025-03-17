@@ -22,7 +22,6 @@
 ---
 
 ### 📂 **Latest Projects**  
-🔹 **[Port Scanner](https://github.com/wiltouw/PortScanner)** – A Python tool to scan open ports on a target system  
 🔹 **[Website Portfolio](https://willemtouw.com)** – My personal website showcasing web development work  
 
 ---
