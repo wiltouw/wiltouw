@@ -2,7 +2,7 @@
 
 🎓 **Student @ Rutgers University**  
 💻 **Web Developer | Cybersecurity Enthusiast**  
-🔹 Passionate about **building secure web applications & automating cybersecurity tasks**  
+🔹 Passionate about **building secure web applications & automating cybersecurity tasks, and integrating AI/LLM's to fight against media bias**  
 🔹 Currently exploring **penetration testing, cloud security, and ethical hacking**  
 
 ---
@@ -11,6 +11,7 @@
 🔹 **Web Development** – Building & optimizing responsive websites  
 🔹 **Cybersecurity** – Learning ethical hacking, threat detection, and security automation  
 🔹 **Cloud & Networking** – Exploring AWS, Linux, and security best practices  
+🔹 **AI Research** – Exploring models such as ChaptGPT and their capability of analyzing media bias and misinfomration  
 
 ---
 
