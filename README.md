@@ -24,7 +24,7 @@
 
 ### 📂 **Latest Projects**  
 🔹 **[Website Portfolio](https://willemtouw.com)** – My personal website showcasing web development work  
-🔹 **[VeriTruths](https://github.com/wiltouw/Veritruths-/tree/main))** – VeriTruths AI Tool  
+🔹 **[VeriTruths](https://github.com/wiltouw/Veritruths-/tree/main)** – VeriTruths AI Tool  
 ---
 
 ### 🌍 **Find Me Online**  
