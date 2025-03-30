@@ -15,7 +15,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 
 ---
 
-### 🛠 **Tech Stack & Skills**  
+### **Tech Stack & Skills**  
 `Python` `JavaScript` `HTML/CSS` `Linux` `Bash` `Kali Linux`  
 `Networking` `Cybersecurity` `Cloud Security` `Penetration Testing`  
 `Web Dev` `Figma` `SEO` `Git/GitHub` `UI/UX`
@@ -27,7 +27,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 **[VeriTruths](https://github.com/wiltouw/Veritruths-/tree/main)** – VeriTruths AI Tool  
 ---
 
-### 🌍 **Find Me Online**  
+### **Find Me Online**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/willemtouw/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/wiltouw)  
 
