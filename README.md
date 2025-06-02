@@ -11,7 +11,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 **Web Development** – Building & optimizing responsive websites  
 **Cybersecurity** – Learning ethical hacking, threat detection, and security automation  
 **Cloud & Networking** – Exploring AWS, Linux, and security best practices  
-**AI Research** – Exploring models such as ChaptGPT and their capability of analyzing media bias and misinfomration  
+**AI Research** – Exploring models such as ChaptGPT and their capability of analyzing media bias and misinformation  
 
 ---
 
