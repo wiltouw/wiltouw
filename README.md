@@ -33,4 +33,4 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 
 ---
 
- **Currently working on:** Enhancing cybersecurity skills & building cool AI powered projects!  
+ **Currently working on:** Cloud Engineering at SHI, most of my repos are private while I solve issues like sprawl and AI governance.  
