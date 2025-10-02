@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Willem Touw  
+# Hey, I'm Willem Touw  
 
 **Student @ Rutgers University**  
 **Web Developer | Cybersecurity Enthusiast | UI/UX**  
