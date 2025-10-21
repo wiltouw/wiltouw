@@ -15,7 +15,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 
 ---
 
-### 💻 Programming & Scripting  
+### Programming & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -26,7 +26,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 ![XAML](https://img.shields.io/badge/-XAML-0C54C2?logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-### 🤖 AI & Machine Learning  
+### AI & Machine Learning  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
 ![NLP](https://img.shields.io/badge/-NLP-1C1C1C?logo=ai&logoColor=white)
@@ -34,7 +34,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 ![Threat Detection](https://img.shields.io/badge/-Threat%20Detection-FF6B6B?logo=security&logoColor=white)
 ![MLOps](https://img.shields.io/badge/-MLOps-326CE5?logo=mlflow&logoColor=white)
 
-### ☁️ Cloud & Automation  
+### Cloud & Automation  
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
@@ -42,7 +42,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 ![PnP](https://img.shields.io/badge/-PnP-0078D7?logo=sharepoint&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=powerautomate&logoColor=white)
 
-### 🔒 Security & Networking  
+### Security & Networking  
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E8B57?logo=datadog&logoColor=white)
 ![Cloud Security](https://img.shields.io/badge/-Cloud%20Security-2B579A?logo=cloudflare&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/-Pen%20Testing-DC143C?logo=kalilinux&logoColor=white)
@@ -54,7 +54,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-### 🌐 Web Development & Design  
+### Web Development & Design  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
@@ -63,7 +63,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 ![SEO](https://img.shields.io/badge/-SEO-4285F4?logo=google&logoColor=white)
 ![Modern Frameworks](https://img.shields.io/badge/-Modern%20Frameworks-00ADD8?logo=react&logoColor=white)
 
-### ⚙️ Tools & Platforms  
+### Tools & Platforms  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
