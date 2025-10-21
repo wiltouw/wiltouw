@@ -2,7 +2,7 @@
 
 **Student @ Rutgers University**  
 **Web Developer | Cybersecurity Enthusiast | UI/UX**  
-Passionate about **building secure web applications & automating cybersecurity tasks, and integrating AI/LLM's to fight against media bias**  
+Passionate about **building secure web applications & automating cybersecurity tasks, and integrating AI/LLM's**  
 Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud security, and ethical hacking**  
 
 ---
@@ -16,7 +16,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 ---
 
 ### **Tech Stack & Skills**  
-`Python` `JavaScript` `HTML/CSS` `Linux` `Bash` `Kali Linux`  
+`Python` `JavaScript` `HTML/CSS` `Linux` `Bash` `Kali Linux` `Java` 
 `Networking` `Cybersecurity` `Cloud Security` `Penetration Testing`  
 `Web Dev` `Figma` `SEO` `Git/GitHub` `UI/UX`
 
@@ -24,7 +24,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 
 ###  **Latest Projects**  
 **[Website Portfolio](https://willemtouw.com)** – My personal website showcasing web development work  
-**[VeriTruths](https://github.com/wiltouw/Veritruths-/tree/main)** – VeriTruths AI Tool  
+**[Boatbroker](https://boatbroker.app)** – BoatBroker - The Ultimate Boating Platform!  
 ---
 
 ### **Find Me Online**  
@@ -33,4 +33,5 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 
 ---
 
- **Currently working on:** Cloud Engineering at SHI, most of my repos are private while I solve issues like sprawl and AI governance.  
+ **Currently working on:** Cloud Engineering at SHI, and optimizing BoatBroker
+ -I keep my repo's private, but reach out if you'd like to chat!
