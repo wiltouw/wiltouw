@@ -76,7 +76,7 @@ Currently exploring **OpenAI API, AI prompting / NLP, AI development, cloud secu
 
 ###  **Latest Projects**  
 **[Website Portfolio](https://willemtouw.com)** – My personal website showcasing web development work  
-**[Boatbroker](https://boatbroker.app)** – BoatBroker - The Ultimate Boating Platform!  
+**[BoatBroker](https://boatbroker.app)** – The Ultimate Boating Platform!  
 ---
 
 ### **Find Me Online**  
