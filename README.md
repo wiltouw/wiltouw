@@ -87,8 +87,11 @@ https://github.com/wiltouw
 ## Background
 
 Rutgers University — Information Technology & Informatics  
+Minors: Critical Intelligence Studies · Global & International Studies · Political Science
 
-Focused on building systems that are secure, automated, and scalable by design  
+I like to think of systems as problems in structure rather than code, where the goal is not just to build, but to refine.
+
+In many ways, it’s closer to mathematics: removing what’s unnecessary until only the essential remains.
 
 ---
 
